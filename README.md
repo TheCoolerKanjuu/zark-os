@@ -1,7 +1,12 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 <br/>
 <div align="center">
-  <a href="https://gitlab.com/batt-industries/zark-os">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/TheCoolerKanjuu/zark-os">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Zark Os (WIP)</h3>
@@ -9,12 +14,12 @@
   <p align="center">
     A noob attempt to create a modular kernel in Rust without a plan nor knowledge in either Rust or kernel development.
     <br />
-    <a href="https://gitlab.com/batt-industries/zark-os"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TheCoolerKanjuu/zark-os"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://gitlab.com/batt-industries/zark-os/-/issues">Report Bug</a>
+    <a href="https://github.com/TheCoolerKanjuu/zark-os/issues">Report Bug</a>
     ·
-    <a href="https://gitlab.com/batt-industries/zark-os/-/issues">Request Feature</a>
+    <a href="https://github.com/TheCoolerKanjuu/zark-os/issues">Request Feature</a>
   </p>
 </div>
 
@@ -103,5 +108,17 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 [discord-url]: https://discordapp.com/users/119918351429533696
 [discord-logo]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
 
-[issue-page]: https://gitlab.com/batt-industries/zark-os/-/issues
-[repo-address]: https://gitlab.com/batt-industries/zark-os/
+[issue-page]: https://github.com/TheCoolerKanjuu/zark-os/issues
+[repo-address]: https://github.com/TheCoolerKanjuu/zark-os/issues
+
+[contributors-shield]: https://img.shields.io/github/contributors/TheCoolerKanjuu/zark-os.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/TheCoolerKanjuu/zark-os/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/TheCoolerKanjuu/zark-os.svg?style=for-the-badge
+[forks-url]: https://github.com/TheCoolerKanjuu/zark-os/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/TheCoolerKanjuu/zark-os.svg?style=for-the-badge
+[stars-url]: https://github.com/TheCoolerKanjuu/zark-os/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/TheCoolerKanjuu/zark-os.svg?style=for-the-badge
+[issues-url]: https://github.com/TheCoolerKanjuu/zark-os/issues
